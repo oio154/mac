@@ -1,0 +1,1 @@
+netdiscover -N -P | grep -v -f ./89-mac-list

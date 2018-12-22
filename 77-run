@@ -1,0 +1,1 @@
+netdiscover -i ens192 -N -P | grep -v -f ./77-mac-list
